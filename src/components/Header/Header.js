@@ -1,6 +1,6 @@
 import './Header.css';
 
-import HeaderImg from '../res/header.png';
+import HeaderImg from '../../res/header.png';
 
 export default function Header(props) {
     return(
