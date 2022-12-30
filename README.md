@@ -1,3 +1,6 @@
+# what time is it right now.com
+ a website that tells you the time right now. inspired by todd from bojack horseman
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
